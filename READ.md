@@ -1,4 +1,4 @@
-# 🌈 Colorful Full Stack Project
+# 🌈 Full Stack Project
 
 Welcome to our exciting Full Stack Project! 🚀
 
